@@ -4,7 +4,7 @@
     background-color: #FAFAFA;
 }
 .navbar{
-    width: 900px;
+    width: 1200px;
     height: 0px;
     margin: auto;
 
@@ -17,7 +17,8 @@
 .logo{
     font-size: 15px;
     font-style: italic;
-    font-family: fantasy;
+    font-family: 'lobster';
+    font-weight: bolder;
     padding-left: 50px;
     float: left;
     margin-top: 25px;
@@ -59,4 +60,41 @@ ul li a:hover{
     border-radius: 7px;
     color: #FAFAFA;
     
+}
+#img1{
+    width: 400px;
+    height: 250px;
+    margin-top: 40px;
+    margin-left: -260px;
+}
+.section{
+    display: flex;
+}
+.section img1{
+    margin-left: 50px;
+}
+#part1{
+    color: #0F298B;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: -550px;
+    font-family: cursive;
+}
+#part2{
+    font-size: 18px;
+    font-weight: 10px;
+    font-family: cursive;
+    margin-left: -550px;
+    margin-top: 30px;
+}
+#learn{
+    margin-left: -550px;
+    height: 35px;
+    margin-top: 20px;
+    background: #2549D3;
+    color: #FAFAFA;
+    border: 2px solid;
+    font-size: 15px;
+    border-radius: 7px;
+    width: 100px;
 }
