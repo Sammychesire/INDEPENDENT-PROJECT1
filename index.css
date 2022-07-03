@@ -194,7 +194,7 @@ ul li a:hover{
 }
 #why{
     font-size: 20px;
-    color: #0F298B;
+    color: #2549D3;
     text-align: center;
     margin-top: -200px;
     margin-left: 90px;
@@ -217,5 +217,42 @@ ul li a:hover{
     font-size: 20px;
     font-weight: 200;
     text-align: center;
+}
+.imgs{
+    height: 150px;
+    width: 250px;
+}
+.section5{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-family: cursive;
+}
+.phases{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 100px;
+    
+}
+#feature{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: cursive;
+    color: #2549D3;
+
+}
+#one{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 15px;
+}
+.phase h2{
+    font-size: 20px;
+}
+.duplex{
+    color: #2549D3;
 }
 
