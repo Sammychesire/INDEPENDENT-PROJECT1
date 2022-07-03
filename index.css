@@ -310,3 +310,10 @@ h5{
         flex-direction: column;
     }
 }
+#bottombar{
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+    font-size: 18px;
+    margin-bottom: 20%;
+}
