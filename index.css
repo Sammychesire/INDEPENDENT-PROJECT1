@@ -305,4 +305,8 @@ h5{
 .client .hover{
     box-shadow: 0 0 20px opx #2549D3;
 }
-
+@media(max-width: 700px){
+    .row{
+        flex-direction: column;
+    }
+}
