@@ -112,7 +112,7 @@ ul li a:hover{
     padding-right: 20px;
     padding-left: 30px;
     background-color: whitesmoke;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 
 }.navigation{
     color: #0F298B;
@@ -132,4 +132,56 @@ ul li a:hover{
     border-radius: 7px;
     width: 100px;
 }
+#products{
+    color: #2549D3;
+    margin-left: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: cursive;
 }
+.title{
+    width: 50%;
+    margin-left: 50px;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 18px;
+}
+#how{
+    color: #2549D3;
+}
+.section2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: cursive;
+}
+.prod{
+    flex-basis: 33.33%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding: 20px 9px;
+    box-shadow: whitesmoke;
+    width: 50px;
+    margin-top: 30px;
+    padding-left: 50px;
+    font-size: 15px;
+    margin-left: 100px;
+    height: 50px;
+    justify-content: center;
+    border-width: 20px;
+    
+}
+#img2{
+    width: 30px;
+    height: 60px;
+}
+#img3{
+    width: 30px;
+    height: 60px;
+}
+#img4{
+    width: 30px;
+    height: 60px;
+}
+
